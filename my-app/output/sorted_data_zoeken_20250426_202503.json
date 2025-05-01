@@ -1,0 +1,513 @@
+{
+    "listings": [
+        {
+            "Prijs": "\u20ac 1.450 /mnd",
+            "Aantal kamers": "3",
+            "Adress": "Sittarderweg 162",
+            "Postcode": "Heerlen",
+            "Plaats": "",
+            "Straatnaam en nummer": "",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/heerlen/object-sittarderweg-162/89290326/",
+            "bestemmingsplan": [
+                "Bedrijf",
+                "Waarde - Archeologie 3"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 1.199 /mnd",
+            "Aantal kamers": "3",
+            "Adress": "Grote Straat",
+            "Postcode": "Maastricht",
+            "Plaats": "",
+            "Straatnaam en nummer": "",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/maastricht/appartement-grote-straat/43876087/",
+            "bestemmingsplan": [
+                "Waarde - Archeologie 1",
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 1.795 /mnd",
+            "Aantal kamers": "3",
+            "Adress": "Piusplein 28-30",
+            "Postcode": "Tilburg",
+            "Plaats": "",
+            "Straatnaam en nummer": "",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/tilburg/appartement-piusplein-28-30/43989296/",
+            "bestemmingsplan": [
+                "Waarde - Appartementen",
+                "Waarde - Flitsbezorging"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 2.500 /maand",
+            "Aantal kamers": "3",
+            "Adress": "Heerderweg 138-B",
+            "Postcode": "6224LJ Maastricht",
+            "Plaats": "",
+            "Straatnaam en nummer": "",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/maastricht/appartement-heerderweg-138-b/43874473/",
+            "bestemmingsplan": [
+                "Waarde - Maastrichts Erfgoed",
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 3.250 /maand",
+            "Aantal kamers": "4",
+            "Adress": "Nassau Odijckstraat 47",
+            "Postcode": "2596AG Den Haag",
+            "Plaats": "",
+            "Straatnaam en nummer": "",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/den-haag/appartement-nassau-odijckstraat-47/43988836/",
+            "bestemmingsplan": [
+                "Waarde - Cultuurhistorie",
+                "Wonen - 1"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 3.100 /maand",
+            "Aantal kamers": "3",
+            "Adress": "Loosduinenstraat 36",
+            "Postcode": "1062EG Amsterdam",
+            "Plaats": "",
+            "Straatnaam en nummer": "",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/amsterdam/appartement-loosduinenstraat-36/43982092/",
+            "bestemmingsplan": [
+                "Wonen - 1"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 3.000 /maand",
+            "Aantal kamers": "3",
+            "Adress": "Copernicusstraat 30",
+            "Postcode": "1098JH Amsterdam",
+            "Plaats": "",
+            "Straatnaam en nummer": "",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/amsterdam/appartement-copernicusstraat-30/43974880/",
+            "bestemmingsplan": [
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 2.500 /maand",
+            "Aantal kamers": "3",
+            "Adress": "Lepelstraat 22",
+            "Postcode": "1018XM Amsterdam",
+            "Plaats": "",
+            "Straatnaam en nummer": "",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/amsterdam/appartement-lepelstraat-22/43970579/",
+            "bestemmingsplan": [
+                "Gemengd - 1",
+                "Waarde - Archeologie C",
+                "Waarde - Cultuurhistorie"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 2.995 /maand",
+            "Aantal kamers": "5",
+            "Adress": "Sumatrakade 1345",
+            "Postcode": "1019RN Amsterdam",
+            "Plaats": "",
+            "Straatnaam en nummer": "",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/amsterdam/appartement-sumatrakade-1345/43963688/",
+            "bestemmingsplan": [
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 3.495 /maand",
+            "Aantal kamers": "3",
+            "Adress": "Weissenbruchstraat 12",
+            "Postcode": "2596GJ Den Haag",
+            "Plaats": "",
+            "Straatnaam en nummer": "",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/den-haag/appartement-weissenbruchstraat-12/43954127/",
+            "bestemmingsplan": [
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 3.500 /maand",
+            "Aantal kamers": "4",
+            "Adress": "Reinier Claeszenstraat 55-H",
+            "Postcode": "1056WG Amsterdam",
+            "Plaats": "",
+            "Straatnaam en nummer": "",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/amsterdam/appartement-reinier-claeszenstraat-55-h/43830335/",
+            "bestemmingsplan": [
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 3.750 /maand",
+            "Aantal kamers": "3",
+            "Adress": "Mathenesserlaan 455-A",
+            "Postcode": "3023GJ Rotterdam",
+            "Plaats": "",
+            "Straatnaam en nummer": "",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/rotterdam/appartement-mathenesserlaan-455-a/43871637/",
+            "bestemmingsplan": [
+                "Waarde - Archeologie 2",
+                "Waarde - Cultuurhistorie 1",
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 2.750 /maand",
+            "Aantal kamers": "3",
+            "Adress": "Van Lumeystraat 19",
+            "Postcode": "2581XA Den Haag",
+            "Plaats": "",
+            "Straatnaam en nummer": "",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/den-haag/appartement-van-lumeystraat-19/43649408/",
+            "bestemmingsplan": [
+                "Waarde - Archeologie 2",
+                "Waarde - Cultuurhistorie",
+                "Wonen - 1"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 3.500 /maand",
+            "Aantal kamers": "3",
+            "Adress": "Middenweg 58-G",
+            "Postcode": "1097BR Amsterdam",
+            "Plaats": "",
+            "Straatnaam en nummer": "",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/amsterdam/appartement-middenweg-58-g/43893608/",
+            "bestemmingsplan": [
+                "Gemengd - 3",
+                "Waarde - Archeologie 1"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 2.328 /maand",
+            "Aantal kamers": "3",
+            "Adress": "Noorderlaan 5-C",
+            "Postcode": "1951HA Velsen-Noord",
+            "Plaats": "",
+            "Straatnaam en nummer": "",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/velsen-noord/appartement-noorderlaan-5-c/43988615/",
+            "bestemmingsplan": [
+                "Bedrijf",
+                "Waarde - Archeologie"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 2.850 /maand",
+            "Aantal kamers": "3",
+            "Adress": "Oude Delft 16",
+            "Postcode": "2611CC Delft",
+            "Plaats": "",
+            "Straatnaam en nummer": "",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/delft/appartement-oude-delft-16/43996410/",
+            "bestemmingsplan": [
+                "Gemengd - Creatief grachtengebied",
+                "Waarde - Archeologie",
+                "Waarde - Cultuurhistorie"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 3.250 /maand",
+            "Aantal kamers": "3",
+            "Adress": "Breitnerstraat 84-C",
+            "Postcode": "3015XJ Rotterdam",
+            "Plaats": "",
+            "Straatnaam en nummer": "",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/rotterdam/appartement-breitnerstraat-84-c/43996925/",
+            "bestemmingsplan": [
+                "Maatschappelijk - 1",
+                "Waarde - Archeologie - 3",
+                "Waarde - Cultuurhistorie - 1"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 3.000 /maand",
+            "Aantal kamers": "3",
+            "Adress": "Archimedesplantsoen 41-H",
+            "Postcode": "1098JW Amsterdam",
+            "Plaats": "",
+            "Straatnaam en nummer": "",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/amsterdam/appartement-archimedesplantsoen-41-h/43974247/",
+            "bestemmingsplan": [
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 2.250 /maand",
+            "Aantal kamers": "3",
+            "Adress": "Daguerrestraat 140",
+            "Postcode": "2561TX",
+            "Plaats": "Den Haag",
+            "Straatnaam en nummer": "Daguerrestraat 140",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/den-haag/appartement-daguerrestraat-140/43971096/",
+            "bestemmingsplan": [
+                "Wonen - 1"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 3.000 /maand",
+            "Aantal kamers": "3",
+            "Adress": "Andreas Schelfhoutstraat 15-1",
+            "Postcode": "1058HP",
+            "Plaats": "Amsterdam",
+            "Straatnaam en nummer": "Andreas Schelfhoutstraat 15-1",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/amsterdam/appartement-andreas-schelfhoutstraat-15-1/43965515/",
+            "bestemmingsplan": [
+                "Gemengd - 3",
+                "Waarde - Archeologie 3",
+                "Waarde - Cultuurhistorie 3"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 2.750 /maand",
+            "Aantal kamers": "3",
+            "Adress": "Wilhelminastraat 61",
+            "Postcode": "2011VL",
+            "Plaats": "Haarlem",
+            "Straatnaam en nummer": "Wilhelminastraat 61",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/haarlem/appartement-wilhelminastraat-61/43846614/",
+            "bestemmingsplan": [
+                "Wonen - 1"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 3.800 /maand",
+            "Aantal kamers": "4",
+            "Adress": "Graaf Florisstraat 9-A",
+            "Postcode": "3021CA",
+            "Plaats": "Rotterdam",
+            "Straatnaam en nummer": "Graaf Florisstraat 9-A",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/rotterdam/appartement-graaf-florisstraat-9-a/43812758/",
+            "bestemmingsplan": [
+                "Waarde - Archeologie 2",
+                "Waarde - Cultuurhistorie 2",
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 3.950 /maand",
+            "Aantal kamers": "4",
+            "Adress": "Stadionplein 81",
+            "Postcode": "1076CK",
+            "Plaats": "Amsterdam",
+            "Straatnaam en nummer": "Stadionplein 81",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/amsterdam/appartement-stadionplein-81/43979219/",
+            "bestemmingsplan": [
+                "Waarde - Archeologie",
+                "Waarde - Architectonische Eenheid",
+                "Waarde - Cultuurhistorie 3",
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 2.500 /maand",
+            "Aantal kamers": "3",
+            "Adress": "Gordelweg 143-C",
+            "Postcode": "3038GD",
+            "Plaats": "Rotterdam",
+            "Straatnaam en nummer": "Gordelweg 143-C",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/rotterdam/appartement-gordelweg-143-c/43982719/",
+            "bestemmingsplan": [
+                "Waarde - Archeologie 3",
+                "Waarde - Cultuurhistorie",
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 2.500 /maand",
+            "Aantal kamers": "3",
+            "Adress": "Orteliusstraat 312-H",
+            "Postcode": "1056PP",
+            "Plaats": "Amsterdam",
+            "Straatnaam en nummer": "Orteliusstraat 312-H",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/amsterdam/appartement-orteliusstraat-312-h/43725507/",
+            "bestemmingsplan": [
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 3.500 /maand",
+            "Aantal kamers": "4",
+            "Adress": "Diezestraat 36-H",
+            "Postcode": "1078JS",
+            "Plaats": "Amsterdam",
+            "Straatnaam en nummer": "Diezestraat 36-H",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/amsterdam/appartement-diezestraat-36-h/43956703/",
+            "bestemmingsplan": [
+                "Waarde - Architectonische eenheid",
+                "Waarde - Cultuurhistorie 3",
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 2.250 /maand",
+            "Aantal kamers": "3",
+            "Adress": "Nolensstraat 29-a",
+            "Postcode": "3039PL",
+            "Plaats": "Rotterdam",
+            "Straatnaam en nummer": "Nolensstraat 29-a",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/rotterdam/appartement-nolensstraat-29-a/43700258/",
+            "bestemmingsplan": [
+                "Waarde - Archeologie 3",
+                "Waarde - Cultuurhistorie",
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 2.050 /maand",
+            "Aantal kamers": "4",
+            "Adress": "Robert Schumanring 57",
+            "Postcode": "3137VB",
+            "Plaats": "Vlaardingen",
+            "Straatnaam en nummer": "Robert Schumanring 57",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/vlaardingen/appartement-robert-schumanring-57/43971251/",
+            "bestemmingsplan": [
+                "Waarde - Archeologie 3",
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 4.000 /maand",
+            "Aantal kamers": "4",
+            "Adress": "Stadionkade 10-H",
+            "Postcode": "1077VH",
+            "Plaats": "Amsterdam",
+            "Straatnaam en nummer": "Stadionkade 10-H",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/amsterdam/appartement-stadionkade-10-h/43954177/",
+            "bestemmingsplan": [
+                "Waarde - Architectonische Eenheid",
+                "Waarde - Cultuurhistorie 3",
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 1.650 /maand",
+            "Aantal kamers": "3",
+            "Adress": "Beetslaan 24",
+            "Postcode": "2281TJ",
+            "Plaats": "Rijswijk (ZH)",
+            "Straatnaam en nummer": "Beetslaan 24",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/rijswijk-zh/appartement-beetslaan-24/43828243/",
+            "bestemmingsplan": [
+                "Waarde - Archeologie - 5",
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 4.000 /maand",
+            "Aantal kamers": "5",
+            "Adress": "Havenkade 43",
+            "Postcode": "2586TV",
+            "Plaats": "Den Haag",
+            "Straatnaam en nummer": "Havenkade 43",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/den-haag/appartement-havenkade-43/43867455/",
+            "bestemmingsplan": [
+                "Waarde - Archeologie",
+                "Waterstaat - Waterkering",
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 2.250 /maand",
+            "Aantal kamers": "3",
+            "Adress": "Hendrik Zwaardecroonstraat 185",
+            "Postcode": "2593XP",
+            "Plaats": "Den Haag",
+            "Straatnaam en nummer": "Hendrik Zwaardecroonstraat 185",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/den-haag/appartement-hendrik-zwaardecroonstraat-185/43723751/",
+            "bestemmingsplan": [
+                "Wonen - 2"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 3.300 /maand",
+            "Aantal kamers": "3",
+            "Adress": "Cornelis Drebbelstraat 26-H",
+            "Postcode": "1097AL",
+            "Plaats": "Amsterdam",
+            "Straatnaam en nummer": "Cornelis Drebbelstraat 26-H",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/amsterdam/appartement-cornelis-drebbelstraat-26-h/43951406/",
+            "bestemmingsplan": [
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 3.250 /maand",
+            "Aantal kamers": "3",
+            "Adress": "Obrechtstraat 83",
+            "Postcode": "2517VN",
+            "Plaats": "Den Haag",
+            "Straatnaam en nummer": "Obrechtstraat 83",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/den-haag/appartement-obrechtstraat-83/43847552/",
+            "bestemmingsplan": [
+                "Waarde - Archeologie 6",
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 1.800 /maand",
+            "Aantal kamers": "4",
+            "Adress": "Kleine Noord 33-A",
+            "Postcode": "1621JE",
+            "Plaats": "Hoorn (NH)",
+            "Straatnaam en nummer": "Kleine Noord 33-A",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/hoorn-nh/appartement-kleine-noord-33-a/43834743/",
+            "bestemmingsplan": [
+                "Centrum - 2",
+                "Waarde - Archeologie",
+                "Waarde - Archeologie 1",
+                "Waarde - Beeldbepalend",
+                "Waarde - Beschermd stadsgezicht",
+                "Waarde - Bouwhistorie"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 2.150 /maand",
+            "Aantal kamers": "3",
+            "Adress": "Amp\u00e8restraat 4",
+            "Postcode": "2563ZT",
+            "Plaats": "Den Haag",
+            "Straatnaam en nummer": "Amp\u00e8restraat 4",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/den-haag/appartement-amperestraat-4/43976837/",
+            "bestemmingsplan": [
+                "Bedrijf"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 2.650 /maand",
+            "Aantal kamers": "3",
+            "Adress": "Jericholaan 49-B",
+            "Postcode": "3061HB",
+            "Plaats": "Rotterdam",
+            "Straatnaam en nummer": "Jericholaan 49-B",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/rotterdam/appartement-jericholaan-49-b/43608583/",
+            "bestemmingsplan": [
+                "Waarde - Archeologie - 3",
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 2.100 /maand",
+            "Aantal kamers": "3",
+            "Adress": "Bosbesstraat 124",
+            "Postcode": "2564PC",
+            "Plaats": "Den Haag",
+            "Straatnaam en nummer": "Bosbesstraat 124",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/den-haag/appartement-bosbesstraat-124/43965226/",
+            "bestemmingsplan": [
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 3.950 /maand",
+            "Aantal kamers": "3",
+            "Adress": "Derde Helmersstraat 84-H",
+            "Postcode": "1054BM",
+            "Plaats": "Amsterdam",
+            "Straatnaam en nummer": "Derde Helmersstraat 84-H",
+            "Volledige Funda Link": "https://www.funda.nl/detail/huur/amsterdam/appartement-derde-helmersstraat-84-h/43963280/",
+            "bestemmingsplan": []
+        }
+    ]
+}

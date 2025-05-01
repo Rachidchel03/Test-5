@@ -1,0 +1,140 @@
+{
+    "listings": [
+        {
+            "Prijs": "\u20ac 675.000 k.k.",
+            "Aantal slaapkamers": "4",
+            "Aantal totale kamers": "6",
+            "Adress": "Clauskindereweg 33, 1069HN Amsterdam",
+            "bestemmingsplan": [
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 285.000 k.k.",
+            "Aantal slaapkamers": "2",
+            "Aantal totale kamers": "3",
+            "Adress": "Langswater 62, 1069TR Amsterdam",
+            "bestemmingsplan": [
+                "Waterstaat - Waterkering",
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 675.000 k.k.",
+            "Aantal slaapkamers": "1",
+            "Aantal totale kamers": "2",
+            "Adress": "Bundlaan 170, 1031KA Amsterdam",
+            "bestemmingsplan": [
+                "Gemengd - 1"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 390.000 k.k.",
+            "Aantal slaapkamers": "1",
+            "Aantal totale kamers": "2",
+            "Adress": "Lijnbaansgracht 321-2, 1017WZ Amsterdam",
+            "bestemmingsplan": []
+        },
+        {
+            "Prijs": "\u20ac 525.000 k.k.",
+            "Aantal slaapkamers": "1",
+            "Aantal totale kamers": "2",
+            "Adress": "Lutmastraat 32-B, 1072PJ Amsterdam",
+            "bestemmingsplan": [
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 975.000 k.k.",
+            "Aantal slaapkamers": "1",
+            "Aantal totale kamers": "2",
+            "Adress": "Jacob Obrechtstraat 24-2, 1071KM Amsterdam",
+            "bestemmingsplan": [
+                "Gemengd - 4",
+                "Waarde - Cultuurhistorie 2"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 375.000 k.k.",
+            "Aantal slaapkamers": "1",
+            "Aantal totale kamers": "2",
+            "Adress": "Riouwstraat 169, 1094XN Amsterdam",
+            "bestemmingsplan": []
+        },
+        {
+            "Prijs": "\u20ac 475.000 k.k.",
+            "Aantal slaapkamers": "2",
+            "Aantal totale kamers": "3",
+            "Adress": "Belgi\u00ebplein 50, 1066SC Amsterdam",
+            "bestemmingsplan": [
+                "Gemengd - 1"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 475.000 k.k.",
+            "Aantal slaapkamers": "2",
+            "Aantal totale kamers": "3",
+            "Adress": "Amstelveenseweg 936-2, 1081JP Amsterdam",
+            "bestemmingsplan": [
+                "Waarde - Archeologie",
+                "Waterstaat - Waterkering",
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 500.000 k.k.",
+            "Aantal slaapkamers": "2",
+            "Aantal totale kamers": "3",
+            "Adress": "Orteliuskade 32-3, 1057AE Amsterdam",
+            "bestemmingsplan": [
+                "Waterstaat - Waterkering",
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 630.000 k.k.",
+            "Aantal slaapkamers": "4",
+            "Aantal totale kamers": "6",
+            "Adress": "Haya van Someren-Downerstraat 1, 1067WP Amsterdam",
+            "bestemmingsplan": [
+                "Wonen - 5"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 840.000 k.k.",
+            "Aantal slaapkamers": "1",
+            "Aantal totale kamers": "2",
+            "Adress": "Memeleiland 37, 1014ZL Amsterdam",
+            "bestemmingsplan": [
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 750.000 k.k.",
+            "Aantal slaapkamers": "2",
+            "Aantal totale kamers": "3",
+            "Adress": "Bestev\u00e2erstraat 225-H, 1055TM Amsterdam",
+            "bestemmingsplan": [
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 480.000 k.k.",
+            "Aantal slaapkamers": "1",
+            "Aantal totale kamers": "2",
+            "Adress": "Van Walbeeckstraat 107-H, 1058CN Amsterdam",
+            "bestemmingsplan": [
+                "Wonen"
+            ]
+        },
+        {
+            "Prijs": "\u20ac 425.000 k.k.",
+            "Aantal slaapkamers": "2",
+            "Aantal totale kamers": "3",
+            "Adress": "Hofmeyrstraat 34-2, 1091NA Amsterdam",
+            "bestemmingsplan": [
+                "Wonen"
+            ]
+        }
+    ]
+}

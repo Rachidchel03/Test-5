@@ -1,0 +1,84 @@
+{
+    "listings": [
+        {
+            "Prijs": "\u20ac 650.000 k.k.",
+            "Locatie": "Marktstraat 5 Wormerveer",
+            "Postcode": "1521DB",
+            "Slaapkamers": "4",
+            "Totale Kamers": "6",
+            "Link": "/detail/koop/wormerveer/huis-marktstraat-5/89296625/"
+        },
+        {
+            "Prijs": "\u20ac 1.995.000 k.k.",
+            "Locatie": "'t Voorwerf 2-C Amsterdam",
+            "Postcode": "1012AB",
+            "Slaapkamers": "3",
+            "Totale Kamers": "5",
+            "Link": "/detail/koop/amsterdam/huis-t-voorwerf-2-c/43873096/"
+        },
+        {
+            "Prijs": "\u20ac 600.000 k.k.",
+            "Locatie": "Zaanweg 91 Wormerveer",
+            "Postcode": "1521CA",
+            "Slaapkamers": "2",
+            "Totale Kamers": "3",
+            "Link": "/detail/koop/wormerveer/appartement-zaanweg-91/43955100/"
+        },
+        {
+            "Prijs": "\u20ac 925.000 k.k.",
+            "Locatie": "Pijlkruidstraat 1 1087CE Amsterdam",
+            "Postcode": "1087CE",
+            "Slaapkamers": "3",
+            "Totale Kamers": "4",
+            "Link": "/detail/koop/amsterdam/huis-pijlkruidstraat-1/43977714/"
+        },
+        {
+            "Prijs": "\u20ac 995.000 k.k.",
+            "Locatie": "Ben van Meerendonkstraat 154 1087LN Amsterdam",
+            "Postcode": "1087LN",
+            "Slaapkamers": "4",
+            "Totale Kamers": "5",
+            "Link": "/detail/koop/amsterdam/huis-ben-van-meerendonkstraat-154/43977778/"
+        },
+        {
+            "Prijs": "\u20ac 825.000 k.k.",
+            "Locatie": "P. Hans Frankfurthersingel 230 1060TP Amsterdam",
+            "Postcode": "1060TP",
+            "Slaapkamers": "5",
+            "Totale Kamers": "7",
+            "Link": "/detail/koop/amsterdam/huis-p-hans-frankfurthersingel-230/43977542/"
+        },
+        {
+            "Prijs": "\u20ac 300.000 k.k.",
+            "Locatie": "Osdorpplein 980 1068TD Amsterdam",
+            "Postcode": "1068TD",
+            "Slaapkamers": "1",
+            "Totale Kamers": "2",
+            "Link": "/detail/koop/amsterdam/appartement-osdorpplein-980/43976130/"
+        },
+        {
+            "Prijs": "\u20ac 750.000 k.k.",
+            "Locatie": "Liedekerkeplantsoen 46 1066WP Amsterdam",
+            "Postcode": "1066WP",
+            "Slaapkamers": "4",
+            "Totale Kamers": "5",
+            "Link": "/detail/koop/amsterdam/huis-liedekerkeplantsoen-46/43976116/"
+        },
+        {
+            "Prijs": "\u20ac 435.000 k.k.",
+            "Locatie": "Giessenburg 20 1082CW Amsterdam",
+            "Postcode": "1082CW",
+            "Slaapkamers": "2",
+            "Totale Kamers": "3",
+            "Link": "/detail/koop/amsterdam/appartement-giessenburg-20/43976195/"
+        },
+        {
+            "Prijs": "\u20ac 875.000 k.k.",
+            "Locatie": "Nassaukade 86-3 1052CV Amsterdam",
+            "Postcode": "1052CV",
+            "Slaapkamers": "2",
+            "Totale Kamers": "3",
+            "Link": "/detail/koop/amsterdam/appartement-nassaukade-86-3/43976026/"
+        }
+    ]
+}
