@@ -1,4 +1,6 @@
 # backend/main.py
+import os, sys
+sys.path.insert(0, os.path.dirname(__file__))
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
@@ -6,12 +8,12 @@ from fastapi.responses import FileResponse
 from datetime import datetime
 from urllib.parse import urlparse, parse_qs
 import json
-import os
+
 from dotenv import load_dotenv
 
 load_dotenv()  
 
-# your existing scraper + omgevingsloket helpers
+
 from scraper import (
     fetch_pages_html_selenium,
     html_to_markdown_with_readability,
