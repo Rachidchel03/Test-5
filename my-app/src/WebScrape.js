@@ -38,10 +38,8 @@ export default function WebScrape() {
           ? fields.split(",").map((f) => f.trim())
           : [],
       };
-      const res = await axios.post(
-        "http://localhost:8000/api/scrape",
-        payload
-      );
+      const res = await axios.post('/api/scrape', payload)
+      ;
       setListings(res.data.data.listings);
       setTimestamp(res.data.timestamp);
     } catch (err) {
