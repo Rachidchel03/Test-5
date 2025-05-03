@@ -17,7 +17,7 @@ import {
   CircularProgress,
   Alert,
 } from "@mui/material";
-
+const API_BASE = process.env.REACT_APP_API_BASE_URL || "";
 export default function WebScrape() {
   const [url, setUrl] = useState("");
   const [pages, setPages] = useState(1);
@@ -38,8 +38,10 @@ export default function WebScrape() {
           ? fields.split(",").map((f) => f.trim())
           : [],
       };
-      const res = await axios.post('/api/scrape', payload)
-      ;
+      const res = await axios.post(
+        `${API_BASE}/api/scrape`,
+        payload
+      );
       setListings(res.data.data.listings);
       setTimestamp(res.data.timestamp);
     } catch (err) {

@@ -7,6 +7,9 @@ from datetime import datetime
 from urllib.parse import urlparse, parse_qs
 import json
 import os
+from dotenv import load_dotenv
+
+load_dotenv()  
 
 # your existing scraper + omgevingsloket helpers
 from scraper import (
@@ -22,13 +25,19 @@ from API_omgevingsloket import get_rd_coordinates, search_plans, get_vlak_by_poi
 
 app = FastAPI()
 
+# At top of file, after imports:
+FRONTEND_ORIGINS = os.getenv("FRONTEND_ORIGINS", "http://localhost:3000")
+# split on comma if you want to allow multiple
+origins = [o.strip() for o in FRONTEND_ORIGINS.split(",")]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],  # your React URL
+    allow_origins=origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
 
 class ScrapeRequest(BaseModel):
     url: str
