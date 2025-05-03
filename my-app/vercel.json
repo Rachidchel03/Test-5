@@ -12,13 +12,11 @@
     }
   ],
   "routes": [
-    {
-      "src": "/api/(.*)",
-      "dest": "/api/$1.py"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
-    }
+  
+    { "src": "/api/(.*)", "dest": "/api/$1.py" },
+
+    { "handle": "filesystem" },
+
+    { "src": "/.*", "dest": "/index.html" }
   ]
 }
