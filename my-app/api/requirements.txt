@@ -12,3 +12,4 @@ pytesseract
 openai
 chromedriver-autoinstaller
 requests
+uvicorn

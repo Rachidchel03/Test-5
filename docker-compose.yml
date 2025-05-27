@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./my-app/api
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./my-app/api:/app
+
+  frontend:
+    build:
+      context: ./my-app
+    ports:
+      - "3000:3000"   # or 3000:3000 depending on your frontend
+    volumes:
+      - ./my-app:/app
